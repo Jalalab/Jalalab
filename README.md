@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jalal Abedin 👋
 
-<!--
-**Jalalab/Jalalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year CSE student at North South University, Bangladesh.  
+Specializing in Machine Learning, Deep Learning, and Adversarial AI.
 
-Here are some ideas to get you started:
+## 🔬 Current Research
+**Adversarial POS Attacks on Text-to-Image Diffusion Models** (Final Year Project)
+- Targeting Stable Diffusion v1.5 using gradient-based adversarial suffixes
+- Evaluation via CLIP Score and Semantic Shift Rate (SemSR)
+- Based on Shahariar et al. (EMNLP 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🧬 [Thyroid Cancer Recurrence Prediction](https://github.com/Jalalab/thyroid-cancer-recurrence-prediction) — 97.5% accuracy, SHAP explainability
+- 📈 [Stock Market Predictor](https://github.com/Jalalab/stock-market-predictor) — LSTM, Bi-LSTM, Transformer
+- 🖼️ [CIFAR-10 CNN vs ViT](https://github.com/Jalalab/CIFAR10-CNN-ViT) — ResNeXt-29 vs Vision Transformer
+
+## 📝 Publications
+**Real-Synthetic Artwork Classification with Deep Transfer Learning**  
+Co-author | ICIICE 2026 [Published at ICIICE 2026]  
+Detecting AI-generated art using Vision Transformers (DaViT, MViT)
+
+## 🛠️ Tech Stack
+Python | PyTorch | TensorFlow | Scikit-learn | CLIP | Stable Diffusion | Streamlit | HuggingFace
+
+## 📫 Contact
+- 📧 jalalabedin200217@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/jalal-abedin)
