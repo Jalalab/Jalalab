@@ -15,9 +15,8 @@ Specializing in Machine Learning, Deep Learning, and Adversarial AI.
 - 🖼️ [CIFAR-10 CNN vs ViT](https://github.com/Jalalab/CIFAR10-CNN-ViT) — ResNeXt-29 vs Vision Transformer
 
 ## 📝 Publications
-**Real-Synthetic Artwork Classification with Deep Transfer Learning**  
-Co-author | ICIICE 2026 [Published at ICIICE 2026]  
-Detecting AI-generated art using Vision Transformers (DaViT, MViT)
+**Real-Synthetic Artwork Classification with Deep Transfer Learning**
+Co-author | IEEE ICIICE 2026 | Dubai, UAE 
 
 ## 🛠️ Tech Stack
 Python | PyTorch | TensorFlow | Scikit-learn | CLIP | Stable Diffusion | Streamlit | HuggingFace
