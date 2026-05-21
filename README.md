@@ -1,4 +1,4 @@
-# Hi, I'm Jalal Abedin 👋
+# Hi, I'm Jalal Abedin 
 
 Final-year CSE student at North South University, Bangladesh.
 Specializing in Machine Learning, Deep Learning, and Adversarial AI.
